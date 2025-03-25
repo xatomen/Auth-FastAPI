@@ -1,0 +1,8 @@
+fastapi
+pyjwt
+uvicorn[standard]
+mysql-connector-python
+sqlalchemy
+pydantic
+python-dotenv
+python-decouple
