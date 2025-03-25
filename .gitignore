@@ -1,0 +1,3 @@
+db/
+app-back/__pycache__/
+app-back/.env
